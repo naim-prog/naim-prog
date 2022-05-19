@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 
-## 🧠 Known languages
+## 🧠 Languages I know
 
 <div>
   <image heigth="45px" width="45px" title="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
