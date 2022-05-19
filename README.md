@@ -32,4 +32,10 @@
   <image heigth="45px" width="45px" title="linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <image heigth="45px" width="45px" title="windows10" src="https://logodownload.org/wp-content/uploads/2016/03/Windows-10-logo-8.png">
 </div>
+
+## ✉️ Contact me
+
+<div>
+  <a href="mailto:naimrodrey@protonmail.com"> <img src="https://img.shields.io/static/v1?label&message=naimrodrey@protonmail.com&color=blue&logo=protonmail"> </a>
     
+</div>
