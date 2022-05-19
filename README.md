@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## Known languages
+## 🧠 Known languages
 
 <div>
   <image heigth="45px" width="45px" title="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
@@ -9,7 +9,7 @@
   <image heigth="45px" width="45px" title="c" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 </div>
      
-## Studying languages
+## 💭 Studying languages
     
 <div>
   <image heigth="45px" width="45px" title="go" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
@@ -17,7 +17,7 @@
   <image heigth="45px" width="45px" title="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
 
-## Work environment
+## 🖥️ Work environment
     
 <div>
   <image heigth="45px" width="45px" title="firefox" src="https://cdn.icon-icons.com/icons2/2552/PNG/512/firefox_browser_logo_icon_152991.png">
