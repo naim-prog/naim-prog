@@ -9,7 +9,7 @@
   <image heigth="45px" width="45px" title="c" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 </div>
      
-## 💭 Studying languages
+## 💭 Languages I'm studying
     
 <div>
   <image heigth="45px" width="45px" title="go" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
