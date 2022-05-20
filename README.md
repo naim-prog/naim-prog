@@ -1,8 +1,18 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Asap&size=27&color=53FF32&center=true&width=500&lines=Welcome+to+my+profile" alt="Welcome to my profile"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Asap&size=27&color=53FF32&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile" alt="Welcome to my profile"></a>
 </div>
 
-### Hi there 👋
+
+<div align="center">
+  <h1> About </h1> 
+</div>
+
+Hi! My name is Naím Rodríguez and I'm 19.
+
+I'm currently studying Computer Science and in my free time I love to learn new things related to technology.
+
+* 🤖 I'm interested on IA and DeepLearning
+* 🎮 I love videogames 
 
 
 ## 🧠 Languages I know
