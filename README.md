@@ -21,7 +21,7 @@
   <image heigth="45px" width="45px" title="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
 
-## 🖥️ Work environment
+## 🖥️ Working equipment
     
 <div>
   <image heigth="45px" width="45px" title="firefox" src="https://cdn.icon-icons.com/icons2/2552/PNG/512/firefox_browser_logo_icon_152991.png">
