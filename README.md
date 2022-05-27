@@ -29,7 +29,6 @@ I'm currently studying Computer Science and in my free time I love to learn new 
 <div>
   <image height="45px" width="45px" title="go" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
   <image height="45px" width="45px" title="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
-  <image height="45px" width="45px" title="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <image height="45px" width="45px" title="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
 
