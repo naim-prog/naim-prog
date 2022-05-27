@@ -40,7 +40,7 @@ I'm currently studying Computer Science and in my free time I love to learn new 
   <image height="45px" width="45px" title="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <image height="45px" width="45px" title="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <image height="45px" width="45px" title="putty" src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg">
-  <image height="45px" width="45px" title="linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <image height="45px" width="45px" title="ubuntu" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
   <image height="45px" width="45px" title="windows10" src="https://logodownload.org/wp-content/uploads/2016/03/Windows-10-logo-8.png">
 </div>
 
