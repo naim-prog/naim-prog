@@ -27,7 +27,7 @@ I'm currently studying Computer Science and in my free time I love to learn new 
 ## 💭 Focused on
     
 <div>
-  <image height="45px" width="45px" title="go" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
+  <image height="45px" width="45px" title="matlab" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
   <image height="45px" width="45px" title="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
   <image height="45px" width="45px" title="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <image height="45px" width="39px" title="nginx" src="https://logodownload.org/wp-content/uploads/2018/03/nginx-logo-1.png">
