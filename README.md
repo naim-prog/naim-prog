@@ -15,7 +15,7 @@ I'm currently studying Computer Science and in my free time I love to learn new 
 * 🎮 I love videogames 
 
 
-## 🧠 Languages I know
+## 🧠 Languages/Frameworks/Utils I know
 
 <div>
   <image height="45px" width="45px" title="python:intermediate" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
@@ -37,6 +37,7 @@ I'm currently studying Computer Science and in my free time I love to learn new 
 ## 🖥️ Work environment
     
 <div>
+  <image height="45px" width="45px" title="tor" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Tor_Browser_icon.svg">
   <image height="45px" width="45px" title="firefox" src="https://cdn.icon-icons.com/icons2/2552/PNG/512/firefox_browser_logo_icon_152991.png">
   <image height="45px" width="45px" title="vscode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <image height="45px" width="45px" title="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
