@@ -22,6 +22,7 @@ I'm currently studying Computer Science and in my free time I love to learn new 
   <image height="45px" width="45px" title="mysql:intermediate" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <image height="45px" width="45px" title="c++:begginer" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <image height="45px" width="45px" title="c:begginer" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <image height="45px" width="35px" title="flask:intermediate" src="https://www.pngkey.com/png/full/98-985032_flask-logo-flask-python-icon.png">
 </div>
      
 ## 💭 Focused on
@@ -29,7 +30,7 @@ I'm currently studying Computer Science and in my free time I love to learn new 
 <div>
   <image height="45px" width="45px" title="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
   <image height="45px" width="39px" title="nginx" src="https://logodownload.org/wp-content/uploads/2018/03/nginx-logo-1.png">
-  <image height="45px" width="39px" title="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <image height="45px" width="35px" title="flask" src="https://www.pngkey.com/png/full/98-985032_flask-logo-flask-python-icon.png">
 </div>
 
 ## 🖥️ Work environment
@@ -49,6 +50,5 @@ I'm currently studying Computer Science and in my free time I love to learn new 
 ## ✉️ Contact me
 
 <div>
-  <a href="mailto:naimrodrey@protonmail.com"> <img src="https://img.shields.io/static/v1?label&message=naimrodrey@protonmail.com&color=blue&logo=protonmail"> </a>
-    
+  <a href="mailto:naimrodrey@proton.me"> <img src="https://img.shields.io/static/v1?label&message=naimrodrey@proton.me&color=blue&logo=protonmail"> </a>
 </div>
