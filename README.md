@@ -45,6 +45,7 @@ I'm currently studying Computer Science and in my free time I love to learn new 
   <image height="45px" width="45px" title="ubuntu" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
   <image height="45px" width="45px" title="windows10" src="https://logodownload.org/wp-content/uploads/2016/03/Windows-10-logo-8.png">
   <image height="45px" width="45px" title="soundcloud" src="https://logodix.com/logo/15030.png">
+  <image height="45px" width="45px" title="discord" src="https://clipground.com/images/discord-logo-png-3.png">
 </div>
 
 ## ✉️ Contact me
