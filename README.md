@@ -23,6 +23,7 @@ I'm currently studying Computer Science and in my free time I love to learn new 
   <image height="45px" width="45px" title="c++:begginer" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <image height="45px" width="45px" title="c:begginer" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <image height="45px" width="35px" title="flask:intermediate" src="https://www.pngkey.com/png/full/98-985032_flask-logo-flask-python-icon.png">
+  <image height="45px" width="39px" title="ruby:begginer" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
 </div>
      
 ## 💭 Focused on
