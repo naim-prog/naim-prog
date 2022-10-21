@@ -11,9 +11,9 @@ Hi! My name is Naím Rodríguez and I'm 19.
 
 I'm currently studying Computer Science and in my free time I love to learn new things related to technology.
 
-* 🤖 I'm interested on IA and DeepLearning
-* 🎮 I love videogames 
-
+* 🤖 Interested on IA and DeepLearning
+* 🎮 Love videogames 
+* 💾 Backend or server dev
 
 ## 🧠 Languages/Frameworks/Utils I know
 
