@@ -15,7 +15,7 @@ I'm currently studying Computer Science and in my free time I love to learn new 
 * 🎮 Love videogames 
 * 💾 Backend or server dev
 
-## 🧠 Languages/Frameworks/Utils I know
+## 🧠 Languages/Frameworks/Utils I know 
 
 <div>
   <image height="45px" width="45px" title="python:intermediate" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
@@ -25,7 +25,9 @@ I'm currently studying Computer Science and in my free time I love to learn new 
   <image height="45px" width="35px" title="flask:intermediate" src="https://www.pngkey.com/png/full/98-985032_flask-logo-flask-python-icon.png">
   <image height="45px" width="39px" title="ruby:begginer" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
 </div>
-     
+
+<h6>(set cursor over image to see my level)</h6>
+    
 ## 💭 Focused on
     
 <div>
