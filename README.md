@@ -42,6 +42,7 @@ I'm currently studying Computer Science and in my free time I love to learn new 
   <image height="45px" width="39px" title="nginx" src="https://logodownload.org/wp-content/uploads/2018/03/nginx-logo-1.png">
   <image height="45px" width="39px" title="tensorflow" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
   <image height="45px" width="39px" title="julia" src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg">
+  <image height="45px" width="39px" title="golang" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
 </div>
 
 ## 🖥️ Work environment
