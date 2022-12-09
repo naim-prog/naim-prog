@@ -24,6 +24,7 @@ I'm currently studying Computer Science and in my free time I love to learn new 
   <image height="45px" width="45px" title="c:begginer" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <image height="45px" width="35px" title="flask:intermediate" src="https://www.pngkey.com/png/full/98-985032_flask-logo-flask-python-icon.png">
   <image height="45px" width="39px" title="java:begginer" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <image height="45px" width="39px" title="redis:begginer" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
 </div>
 
 <h6>(set cursor over image to see my level)</h6>
@@ -38,7 +39,6 @@ I'm currently studying Computer Science and in my free time I love to learn new 
 ## <image height="22px" width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png"> Interested in
 
 <div>
-  <image height="45px" width="39px" title="redis" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
   <image height="45px" width="39px" title="nginx" src="https://logodownload.org/wp-content/uploads/2018/03/nginx-logo-1.png">
   <image height="45px" width="39px" title="tensorflow" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
   <image height="45px" width="39px" title="julia" src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg">
