@@ -22,7 +22,7 @@ I'm currently studying Computer Science and in my free time I love to learn new 
   <image height="45px" width="45px" title="mysql:intermediate" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <image height="45px" width="45px" title="c++:begginer" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <image height="45px" width="45px" title="c:begginer" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <image height="45px" width="35px" title="flask:intermediate" src="https://www.pngkey.com/png/full/98-985032_flask-logo-flask-python-icon.png">
+  <image height="45px" width="42px" title="flask:intermediate" src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png">
   <image height="45px" width="39px" title="java:begginer" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <image height="45px" width="39px" title="redis:begginer" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
 </div>
@@ -33,7 +33,7 @@ I'm currently studying Computer Science and in my free time I love to learn new 
     
 <div>
   <image height="45px" width="39px" title="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <image height="45px" width="35px" title="flask" src="https://www.pngkey.com/png/full/98-985032_flask-logo-flask-python-icon.png">
+  <image height="45px" width="42px" title="flask" src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png">
 </div>
 
 ## <image height="22px" width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png"> Interested in
