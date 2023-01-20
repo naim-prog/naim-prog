@@ -7,7 +7,7 @@
   <h1> About </h1> 
 </div>
 
-Hi! My name is Naím Rodríguez and I'm 19.
+Hi! My name is Naím Rodríguez and I'm 20.
 
 I'm currently studying Computer Science and in my free time I love to learn new things related to technology.
 
