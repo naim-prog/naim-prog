@@ -25,6 +25,7 @@ I'm currently studying Computer Science and in my free time I love to learn new 
   <image height="45px" width="42px" title="flask:intermediate" src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png">
   <image height="45px" width="39px" title="java:begginer" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <image height="45px" width="39px" title="redis:begginer" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
+  <image height="45px" width="39px" title="matlab:begginer" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
 </div>
 
 <h6>(set cursor over image to see my level)</h6>
@@ -34,6 +35,7 @@ I'm currently studying Computer Science and in my free time I love to learn new 
 <div>
   <image height="45px" width="39px" title="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <image height="45px" width="42px" title="flask" src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png">
+  <image height="45px" width="39px" title="matlab:begginer" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
 </div>
 
 ## <image height="22px" width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png"> Interested in
