@@ -13,7 +13,7 @@ I'm currently studying Computer Science and in my free time I love to learn new 
 
 * 🤖 Interested on IA and DeepLearning
 * 🎮 Love videogames 
-* 💾 Backend or server dev
+* 💾 Experience with API's (Binance, Telegram, YouTube)
 
 ## 🧠 Languages/Frameworks/Utils I know 
 
