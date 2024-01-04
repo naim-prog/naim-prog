@@ -7,11 +7,11 @@
   <h1> About </h1> 
 </div>
 
-Hi! My name is Naím Rodríguez and I'm 20.
+Hi! My name is Naím Rodríguez and I'm 21.
 
 I'm currently studying Computer Science and in my free time I love to learn new things related to technology.
 
-* 🤖 Interested on IA and DeepLearning
+* 🤖 Interested on IA, DeepLearning and Data Science
 * 🎮 Love videogames 
 * 💾 Experience with API's (Binance, Telegram, SoundCloud, YouTube)
 * ⛓️ Blockchain technology fan
