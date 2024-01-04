@@ -11,8 +11,8 @@ Hi! My name is Naím Rodríguez and I'm 21.
 
 I'm currently studying Computer Science and in my free time I love to learn new things related to technology.
 
-* 🤖 Interested on IA, DeepLearning and Data Science
-* 🎮 Love videogames 
+* 🤖 Interested on Machine Learning and Data Science
+* 🎮 Love videogames
 * 💾 Experience with API's (Binance, Telegram, SoundCloud, YouTube)
 * ⛓️ Blockchain technology fan
 
@@ -36,17 +36,20 @@ I'm currently studying Computer Science and in my free time I love to learn new 
     
 <div>
   <image height="45px" width="45px" title="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <image height="45px" width="45px" title="solidity" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg">
+  <image height="45px" width="42px" title="flask" src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png">
   <image height="45px" width="39px" title="matlab" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
+  <image height="45px" width="45px" title="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <image height="45px" width="45px" title="azure" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
 </div>
 
 ## <image height="22px" width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png"> Interested in
 
 <div>
-  <image height="45px" width="39px" title="nginx" src="https://logodownload.org/wp-content/uploads/2018/03/nginx-logo-1.png">
+  <image height="45px" width="39px" title="pytorch" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg">
   <image height="45px" width="39px" title="tensorflow" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
-  <image height="45px" width="39px" title="julia" src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg">
+  <image height="45px" width="39px" title="opencv" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
   <image height="45px" width="39px" title="golang" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
+  <image height="45px" width="39px" title="r" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
 </div>
 
 ## 🖥️ Work environment
@@ -56,7 +59,6 @@ I'm currently studying Computer Science and in my free time I love to learn new 
   <image height="45px" width="45px" title="vscode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <image height="45px" width="45px" title="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <image height="45px" width="45px" title="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-  <image height="45px" width="45px" title="putty" src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg">
   <image height="45px" width="45px" title="ubuntu" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
   <image height="45px" width="45px" title="windows10" src="https://logodownload.org/wp-content/uploads/2016/03/Windows-10-logo-8.png">
   <image height="45px" width="45px" title="soundcloud" src="https://logodix.com/logo/15030.png">
