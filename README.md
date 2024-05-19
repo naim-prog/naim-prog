@@ -27,7 +27,6 @@ I'm currently studying Computer Science and in my free time I love to learn new 
   <image height="45px" width="39px" title="java:begginer" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <image height="45px" width="39px" title="redis:begginer" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
   <image height="45px" width="39px" title="matlab:intermediate" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
-  <image height="45px" width="45px" title="solidity:beginner" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg">
 </div>
 
 <h6>(set cursor over image to see my level)</h6>
@@ -37,7 +36,6 @@ I'm currently studying Computer Science and in my free time I love to learn new 
 <div>
   <image height="45px" width="45px" title="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <image height="45px" width="42px" title="flask" src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png">
-  <image height="45px" width="39px" title="matlab" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
   <image height="45px" width="45px" title="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <image height="45px" width="45px" title="azure" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
 </div>
@@ -46,10 +44,10 @@ I'm currently studying Computer Science and in my free time I love to learn new 
 
 <div>
   <image height="45px" width="39px" title="pytorch" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg">
-  <image height="45px" width="39px" title="tensorflow" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
   <image height="45px" width="39px" title="opencv" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
-  <image height="45px" width="39px" title="golang" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
   <image height="45px" width="39px" title="r" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
+  <image height="45px" width="39px" title="aws" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <image height="45px" width="39px" title="terraform" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
 </div>
 
 ## 🖥️ Work environment
@@ -59,7 +57,7 @@ I'm currently studying Computer Science and in my free time I love to learn new 
   <image height="45px" width="45px" title="vscode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <image height="45px" width="45px" title="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <image height="45px" width="45px" title="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-  <image height="45px" width="45px" title="ubuntu" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
+  <image height="45px" width="45px" title="linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <image height="45px" width="45px" title="windows10" src="https://logodownload.org/wp-content/uploads/2016/03/Windows-10-logo-8.png">
   <image height="45px" width="45px" title="soundcloud" src="https://logodix.com/logo/15030.png">
   <image height="45px" width="45px" title="discord" src="https://clipground.com/images/discord-logo-png-3.png">
