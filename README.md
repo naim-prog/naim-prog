@@ -7,20 +7,21 @@
   <h1> About </h1> 
 </div>
 
-Hi! My name is Naím Rodríguez and I'm 22.
+Hi! My name is Naím and I'm 22.
 
 I'm currently studying Computer Science and in my free time I love to learn new things related to technology.
 
-* 🤖 Interested on Machine Learning and Data Science
+* 🤖 Interested on Machine Learning
+* 📊 Passionate about data
 * 🎮 Love videogames
 * 💾 Experience with API's (Binance, Telegram, SoundCloud, YouTube)
-* ⛓️ Blockchain technology fan
 
 ## 🧠 Languages/Frameworks/Utils I know 
 
 <div>
   <image height="45px" width="45px" title="python:intermediate" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <image height="45px" width="45px" title="mysql:intermediate" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <image height="45px" width="45px" title="postgres:intermediate" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <image height="45px" width="45px" title="c++:begginer" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <image height="45px" width="45px" title="c:begginer" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <image height="45px" width="42px" title="flask:intermediate" src="https://static-00.iconduck.com/assets.00/programming-language-flask-icon-2048x1826-wf5k5ugs.png">
@@ -38,6 +39,7 @@ I'm currently studying Computer Science and in my free time I love to learn new 
   <image height="45px" width="45px" title="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <image height="45px" width="45px" title="opencv" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
   <image height="45px" width="45px" title="jupyter_notebooks" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <image height="45px" width="45px" title="postgres:intermediate" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 </div>
 
 ## <image height="22px" width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png"> Interested in
