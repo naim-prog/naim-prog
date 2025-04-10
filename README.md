@@ -14,7 +14,7 @@ I'm currently studying Computer Science and in my free time I love to learn new 
 * 🤖 Interested on Machine Learning
 * 📊 Passionate about data
 * 🎮 Love videogames
-* 💾 Experience with API's (Binance, Telegram, SoundCloud, YouTube)
+* 💾 Experience using API's
 
 ## 🧠 Languages/Frameworks/Utils I know 
 
