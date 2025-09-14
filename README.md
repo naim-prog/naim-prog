@@ -60,6 +60,10 @@ I'm currently studying Computer Science and in my free time I love to learn new 
   <image height="45px" width="45px" title="windows10" src="https://logodownload.org/wp-content/uploads/2016/03/Windows-10-logo-8.png">
 </div>
 
+## Links of interest
+
+* [**Grafana film reviews dashboard**](https://naimprog.grafana.net/public-dashboards/b2c5ba1d61ea45d9bdc955fe95758c3a): made from [data scrapped](https://github.com/naim-prog/filmaffinity-scrap) from Filmaffinity by me.
+
 ## ✉️ Contact me
 
 <div>
