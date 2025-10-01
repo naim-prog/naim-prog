@@ -30,6 +30,7 @@ I'm currently studying Computer Science and in my free time I love to learn new 
   <image height="45px" width="39px" title="matlab" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
   <image height="45px" width="39px" title="jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
   <image height="45px" width="45px" title="grafana" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg">
+  <image height="45px" width="45px" title="gcp" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
 </div>
 
 ## 💭 Focused on
@@ -38,14 +39,13 @@ I'm currently studying Computer Science and in my free time I love to learn new 
   <image height="45px" width="45px" title="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <image height="45px" width="45px" title="opencv" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
   <image height="45px" width="45px" title="jupyter_notebooks" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <image height="45px" width="45px" title="aws" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
+  <image height="45px" width="45px" title="gcp" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
 </div>
 
 ## <image height="22px" width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png"> Interested in
 
 <div>
   <image height="45px" width="39px" title="pytorch" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg">
-  <image height="45px" width="39px" title="r" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
   <image height="45px" width="39px" title="aws" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 
