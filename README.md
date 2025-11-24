@@ -52,7 +52,7 @@ I'm currently studying Computer Science and in my free time I love to learn new 
 ## 🖥️ Work environment
     
 <div>
-  <image height="45px" width="45px" title="firefox" src="https://cdn.icon-icons.com/icons2/2552/PNG/512/firefox_browser_logo_icon_152991.png">
+  <image height="45px" width="45px" title="firefox" src="https://play-lh.googleusercontent.com/zqsuwFUBwKRcGOSBinKQCL3JgfvOW49vJphq0ZF32aDgfqmuDyl-fEpx4Lxm4pRr7A=w240-h480">
   <image height="45px" width="45px" title="vscode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <image height="45px" width="45px" title="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <image height="45px" width="45px" title="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
