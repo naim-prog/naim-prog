@@ -36,9 +36,11 @@ I'm currently studying Computer Science and in my free time I love to learn new 
 ## 💭 Focused on
 
 <div>
-  <image height="45px" width="45px" title="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <image height="45px" width="45px" title="opencv" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
   <image height="45px" width="45px" title="jupyter_notebooks" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <image height="45px" width="45px" title="scikitlearn" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
+  <image height="45px" width="45px" title="opencv" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
+  <image height="45px" width="45px" title="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <image height="45px" width="45px" title="keras" src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg">
   <image height="45px" width="45px" title="gcp" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
 </div>
 
