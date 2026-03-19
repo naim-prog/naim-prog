@@ -11,10 +11,10 @@ Hi! My name is Naím and I'm 23.
 
 I'm currently studying Computer Science and in my free time I love to learn new things related to technology.
 
-* 🤖 Interested on Machine Learning
 * 📊 Passionate about data
-* 🎮 Love videogames
-* 💾 Experience using API's
+* 🤖 Interested on Machine Learning
+* 📚 Everyday learning new things
+* 💡 Love transforming ideas in real projects
 
 ## 🧠 Languages/Frameworks/Utils I know 
 
