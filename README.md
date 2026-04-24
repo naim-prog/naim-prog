@@ -23,9 +23,7 @@ I'm currently studying Computer Science and in my free time I love to learn new 
   <image height="45px" width="45px" title="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <image height="45px" width="45px" title="postgres" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <image height="45px" width="45px" title="c++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <image height="45px" width="45px" title="c" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <image height="45px" width="42px" title="flask" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
-  <image height="45px" width="39px" title="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <image height="45px" width="39px" title="redis" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
   <image height="45px" width="39px" title="matlab" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
   <image height="45px" width="39px" title="jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
@@ -36,12 +34,12 @@ I'm currently studying Computer Science and in my free time I love to learn new 
 ## 💭 Focused on
 
 <div>
-  <image height="45px" width="45px" title="jupyter_notebooks" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <image height="45px" width="45px" title="scikitlearn" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
-  <image height="45px" width="45px" title="opencv" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
   <image height="45px" width="45px" title="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <image height="45px" width="45px" title="jupyter_notebooks" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <image height="45px" width="45px" title="pandas" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-plain-wordmark.svg">
+  <image height="45px" width="45px" title="opencv" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
+  <image height="45px" width="45px" title="scikitlearn" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
   <image height="45px" width="45px" title="keras" src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg">
-  <image height="45px" width="45px" title="gcp" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
 </div>
 
 ## <image height="22px" width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png"> Interested in
