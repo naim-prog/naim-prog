@@ -9,12 +9,11 @@
 
 Hi! My name is Naím and I'm 23.
 
-I'm currently studying Computer Science and in my free time I love to learn new things related to technology.
+I have studied Computer Science and built some interesting projects where I gather and utilize my own datasets. Currently looking for a job where I can put my knowledge in data-related fields (Data Science, Data Engineer and more).
 
-* 📊 Passionate about data
-* 🤖 Interested on Machine Learning
-* 📚 Everyday learning new things
-* 💡 Love transforming ideas in real projects
+I am interested on Machine Learning, Artificial Intelligence and LLM's. Also, I love transforming curiosity into real interesting projects where I gather and utilize my own datasets (see my pinned repositories).
+
+For questions or inquiries write me an email.
 
 ## 🧠 Languages/Frameworks/Utils I know 
 
@@ -40,13 +39,13 @@ I'm currently studying Computer Science and in my free time I love to learn new 
   <image height="45px" width="45px" title="opencv" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
   <image height="45px" width="45px" title="scikitlearn" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
   <image height="45px" width="45px" title="keras" src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg">
+  <image height="45px" width="39px" title="aws" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 
 ## <image height="22px" width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png"> Interested in
 
 <div>
   <image height="45px" width="39px" title="pytorch" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg">
-  <image height="45px" width="39px" title="aws" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 
 ## 🖥️ Work environment
