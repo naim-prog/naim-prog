@@ -39,7 +39,7 @@ For questions or inquiries write me an email.
   <image height="45px" width="45px" title="opencv" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
   <image height="45px" width="45px" title="scikitlearn" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
   <image height="45px" width="45px" title="keras" src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg">
-  <image height="45px" width="39px" title="aws" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <image height="45px" width="39px" title="aws" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
 </div>
 
 ## <image height="22px" width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png"> Interested in
@@ -53,6 +53,7 @@ For questions or inquiries write me an email.
 <div>
   <image height="45px" width="45px" title="firefox" src="https://play-lh.googleusercontent.com/zqsuwFUBwKRcGOSBinKQCL3JgfvOW49vJphq0ZF32aDgfqmuDyl-fEpx4Lxm4pRr7A=w240-h480">
   <image height="45px" width="45px" title="vscode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <image height="45px" width="45px" title="opencode" src="https://github.com/anomalyco/opencode/blob/dev/packages/console/app/src/asset/lander/opencode-logo-light.svg">
   <image height="45px" width="45px" title="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <image height="45px" width="45px" title="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <image height="45px" width="45px" title="linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
