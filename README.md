@@ -53,7 +53,7 @@ For questions or inquiries write me an email.
 <div>
   <image height="45px" width="45px" title="firefox" src="https://play-lh.googleusercontent.com/zqsuwFUBwKRcGOSBinKQCL3JgfvOW49vJphq0ZF32aDgfqmuDyl-fEpx4Lxm4pRr7A=w240-h480">
   <image height="45px" width="45px" title="vscode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <image height="45px" width="45px" title="opencode" src="https://github.com/anomalyco/opencode/blob/dev/packages/console/app/src/asset/lander/opencode-logo-light.svg">
+  <image height="45px" width="45px" title="opencode" src="https://github.com/anomalyco/opencode/blob/dev/packages/desktop/icons/prod/icon.png">
   <image height="45px" width="45px" title="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <image height="45px" width="45px" title="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <image height="45px" width="45px" title="linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
