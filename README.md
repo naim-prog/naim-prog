@@ -19,26 +19,22 @@ For questions or inquiries write me an email.
 
 <div>
   <image height="45px" width="45px" title="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <image height="45px" width="45px" title="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <image height="45px" width="45px" title="postgres" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <image height="45px" width="45px" title="c++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <image height="45px" width="42px" title="flask" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
-  <image height="45px" width="39px" title="redis" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
-  <image height="45px" width="39px" title="matlab" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
-  <image height="45px" width="39px" title="jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <image height="45px" width="45px" title="pandas" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-plain-wordmark.svg">
+  <image height="45px" width="45px" title="jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
   <image height="45px" width="45px" title="grafana" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg">
-  <image height="45px" width="45px" title="gcp" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
+  <image height="45px" width="45px" title="keras" src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg">
+  <image height="45px" width="45px" title="scikitlearn" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
 </div>
 
 ## 💭 Focused on
 
 <div>
   <image height="45px" width="45px" title="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <image height="45px" width="45px" title="jupyter_notebooks" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <image height="45px" width="45px" title="pandas" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-plain-wordmark.svg">
+  <image height="45px" width="45px" title="jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
   <image height="45px" width="45px" title="opencv" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
-  <image height="45px" width="45px" title="scikitlearn" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
-  <image height="45px" width="45px" title="keras" src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg">
+  <image height="45px" width="45px" title="qgis" src="https://images.icon-icons.com/2699/PNG/512/qgis_logo_icon_170816.png">
   <image height="45px" width="39px" title="aws" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
 </div>
 
@@ -51,8 +47,9 @@ For questions or inquiries write me an email.
 ## 🖥️ Work environment
     
 <div>
-  <image height="45px" width="45px" title="firefox" src="https://play-lh.googleusercontent.com/zqsuwFUBwKRcGOSBinKQCL3JgfvOW49vJphq0ZF32aDgfqmuDyl-fEpx4Lxm4pRr7A=w240-h480">
   <image height="45px" width="45px" title="vscode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <image height="45px" width="45px" title="qgis" src="https://images.icon-icons.com/2699/PNG/512/qgis_logo_icon_170816.png">
+  <image height="45px" width="45px" title="firefox" src="https://play-lh.googleusercontent.com/zqsuwFUBwKRcGOSBinKQCL3JgfvOW49vJphq0ZF32aDgfqmuDyl-fEpx4Lxm4pRr7A=w240-h480">
   <image height="45px" width="45px" title="opencode" src="https://github.com/anomalyco/opencode/blob/dev/packages/desktop/icons/prod/icon.png">
   <image height="45px" width="45px" title="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <image height="45px" width="45px" title="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
